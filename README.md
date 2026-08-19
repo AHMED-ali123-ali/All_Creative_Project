@@ -30,9 +30,6 @@ Focus Area: **Flutter Mobile Application Development**
 ## 👨‍💻 Developer
 
 **Ahmed Ali**
-
-Business Information Systems Student
-
 ---
 
 ⭐ This repository documents my learning journey and projects during the CREATIVA training program.
