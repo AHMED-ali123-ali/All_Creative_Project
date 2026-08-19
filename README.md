@@ -6,7 +6,7 @@ The repository includes the projects and practical tasks I worked on throughout 
 
 ## 📍 CREATIVA Mansoura
 
-![CREATIVA Mansoura](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaBFpy-xttnxLRVUl3eszcwRlv4p9qeW3usCd2R6A_38qxNtkizc8EaVX&s=10)
+![CREATIVA Mansoura](https://media.licdn.com/dms/image/v2/C4E1BAQEjStgJfYvYoQ/company-background_10000/company-background_10000/0/1624953509534/creativamansoura_cover?e=2147483647&v=beta&t=2n34dUFxgFEz7I03c4BlsyxA6lf5sRLB3psak61lsUI)
 
 ## 🛠️ Technologies
 
